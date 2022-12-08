@@ -4,7 +4,7 @@ azure-cli-command-modules-nspkg==2.0.2
 azure-cli-nspkg==3.0.3
 azure-nspkg==3.0.2
 bcrypt==3.1.6
-certifi==2019.3.9
+certifi==2022.12.7
 cffi==1.12.3
 chardet==3.0.4
 cryptography==2.7
